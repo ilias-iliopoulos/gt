@@ -1,0 +1,10 @@
+
+
+#include
+
+#ifdef HHELLO_H
+main() {
+
+}
+
+#endif
