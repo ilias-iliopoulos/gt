@@ -5,6 +5,8 @@
 #ifdef HHELLO_H
 main() {
 
+int a;
+
 }
 
 #endif
