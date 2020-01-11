@@ -11,6 +11,10 @@ float c;
 
 static int a0;
 
+  float setFloat() {
+
+  }
+
 }
 
 #endif
