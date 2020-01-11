@@ -11,6 +11,19 @@ float c;
 
 static int a0;
 
+
+  // Addition to branch br01
+  int setA() {
+    for (int i; i<5; i++) {
+      digitalWrite(1, HIGH);
+    }
+
+
+  float setFloat() {
+
+
+  }
+
 }
 
 #endif
