@@ -9,6 +9,8 @@ int a;
 int b;
 float c;
 
+static int a0;
+
 }
 
 #endif
